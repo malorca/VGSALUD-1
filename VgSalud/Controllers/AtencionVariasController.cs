@@ -12,6 +12,8 @@ namespace VgSalud.Controllers
 {
     public class AtencionVariasController : Controller
     {
+
+
         TipoTarifaController tt = new TipoTarifaController();
         EspecialidadController es = new EspecialidadController();
         ServiciosController ser = new ServiciosController();
